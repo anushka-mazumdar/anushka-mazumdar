@@ -5,4 +5,3 @@
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anushka-mazumdar&show_icons=true&theme=tokyonight)](https://github.com/anushka-mazumdar)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushka-mazumdar&layout=compact&theme=tokyonight)](https://github.com/anushka-mazumdar)
-![Snake animation](https://github.com/anushka-mazumdar/anushka-mazumdar/blob/output/github-contribution-grid-snake.svg)
