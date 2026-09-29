@@ -23,7 +23,6 @@
   [![GitHub
   Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushka-mazumdar&theme=tokyonight)](https://github.com/anushka-mazumdar)
 
-  [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushka-mazumdar&theme=tokyonight)](https://github
-  .com/anushka-mazumdar)
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushka-mazumdar&theme=tokyonight)
 
   ---
